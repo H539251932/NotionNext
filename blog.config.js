@@ -2,7 +2,7 @@
 const BLOG = {
   AUTHOR: '土地沙锅锅', // 作者
   BIO: '一个面向CV编程的程序猿🍚', // 作者简介
-  LINK: 'https://h539251932.github.io/daohang', // 网站地址
+  LINK: 'http://moinkhao.me/', // 网站地址
   KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
   process.env.NOTION_PAGE_ID || 'c7ef75c987fc4204944bec3f5f827967', // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
@@ -52,7 +52,7 @@ const BLOG = {
   PREVIEW_TAG_COUNT: 16, // 首页最多展示的标签数量，0为不限制
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
-  CONTACT_EMAIL: 'mail@tangly1024.com', // 邮箱
+  CONTACT_EMAIL: 'moinkhao@proton.me', // 邮箱
   CONTACT_WEIBO: '', // 你的微博个人主页
   CONTACT_TWITTER: '', // 你的twitter个人主页
   CONTACT_GITHUB: 'https://github.com/moinkhao', // 你的github个人主页
@@ -61,7 +61,7 @@ const BLOG = {
 
 
   // 鼠标点击烟花特效
-  FIREWORKS: process.env.NEXT_PUBLIC_FIREWORKS || false, // 鼠标点击烟花特效
+  FIREWORKS: process.env.NEXT_PUBLIC_FIREWORKS || true, // 鼠标点击烟花特效
 
   // 悬浮挂件
   WIDGET_PET: process.env.NEXT_PUBLIC_WIDGET_PET || true, // 是否显示宠物挂件
