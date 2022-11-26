@@ -2,7 +2,7 @@
 const BLOG = {
   AUTHOR: '土地沙锅锅', // 作者
   BIO: '一个面向CV编程的程序猿🍚', // 作者简介
-  LINK: 'http://moinkhao.me/', // 网站地址
+  LINK: 'http://moinkhao.me', // 网站地址
   KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
   process.env.NOTION_PAGE_ID || 'c7ef75c987fc4204944bec3f5f827967', // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
