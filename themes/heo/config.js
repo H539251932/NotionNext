@@ -1,7 +1,7 @@
 const CONFIG = {
   HOME_BANNER_ENABLE: true,
 
-  SITE_CREATE_TIME: '2023-09-21', // 建站日期，用于计算网站运行的第几天
+  SITE_CREATE_TIME: '2022-09-21', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
@@ -29,14 +29,12 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
     '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '分享热心好人卡',
+    '不喜学习学渣卡',
+    '脚踏实地行动派',
+    '胡说八道第一名'
   ],
-  INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  INFO_CARD_URL: 'https://music.moinkhao.link/', // 个人资料底部按钮链接
 
   // 用户技能图标
   GROUP_ICONS: [
