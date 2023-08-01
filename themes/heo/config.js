@@ -15,7 +15,7 @@ const CONFIG = {
   HERO_TITLE_3: 'MOINKHAO',
   HERO_TITLE_4: '新版上线',
   HERO_TITLE_5: '土豆沙锅锅的小碎记',
-  HERO_TITLE_LINK: 'https://blog.moinkhao.link',
+  HERO_TITLE_LINK: 'https://music.moinkhao.link',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -29,12 +29,12 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
     '你好！我是',
-    '分享热心好人卡',
-    '不喜学习学渣卡',
-    '脚踏实地行动派',
-    '胡说八道第一名'
+    '🔍 热心分享好人卡',
+    '🧱 不喜学习学渣卡',
+    '🏃 脚踏实地行动派',
+    '🤖️ 胡说八道第一名'
   ],
-  INFO_CARD_URL: 'https://music.moinkhao.link/', // 个人资料底部按钮链接
+  INFO_CARD_URL: 'https://github.com/moinkhao', // 个人资料底部按钮链接
 
   // 用户技能图标
   GROUP_ICONS: [
