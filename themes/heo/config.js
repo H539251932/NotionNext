@@ -14,8 +14,8 @@ const CONFIG = {
   HERO_TITLE_2: '与思维认知',
   HERO_TITLE_3: 'MOINKHAO',
   HERO_TITLE_4: '新版上线',
-  HERO_TITLE_5: '土豆沙锅锅的小碎记',
-  HERO_TITLE_LINK: 'https://music.moinkhao.link',
+  HERO_TITLE_5: '土豆沙锅锅的主页',
+  HERO_TITLE_LINK: 'https://www.moinkhao.eu.org',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -29,7 +29,7 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
     '你好！我是',
-    '🔍 热心分享好人卡',
+    '🔍 热心志愿好人卡',
     '🧱 不喜学习学渣卡',
     '🏃 脚踏实地行动派',
     '🤖️ 胡说八道第一名'
@@ -97,10 +97,10 @@ const CONFIG = {
   ],
 
   SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  SOCIAL_CARD_TITLE_1: '墨陌gpt',
-  SOCIAL_CARD_TITLE_2: '基于gpt3.5搭建的chat平台',
+  SOCIAL_CARD_TITLE_1: '墨陌云听',
+  SOCIAL_CARD_TITLE_2: '基于wyy官方api搭建的在线云音乐平台',
   SOCIAL_CARD_TITLE_3: '点击访问',
-  SOCIAL_CARD_URL: 'https://gpt.moinkhao.link',
+  SOCIAL_CARD_URL: 'https://smusic.moinkhao.eu.org',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
