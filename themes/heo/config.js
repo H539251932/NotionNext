@@ -98,7 +98,7 @@ const CONFIG = {
 
   SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   SOCIAL_CARD_TITLE_1: '墨陌云听',
-  SOCIAL_CARD_TITLE_2: '基于wyy官方api搭建的在线云音乐平台',
+  SOCIAL_CARD_TITLE_2: '基于wyy官方api搭建的在线云音乐',
   SOCIAL_CARD_TITLE_3: '点击访问',
   SOCIAL_CARD_URL: 'https://smusic.moinkhao.eu.org',
 
